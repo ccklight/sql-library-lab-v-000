@@ -39,4 +39,8 @@ CREATE TABLE character_books (
   id INTEGER PRIMARY KEY,
   book_id INTEGER,
   character_id INTEGER
+<<<<<<< HEAD
 )
+=======
+);
+>>>>>>> f6492d4b9bbf535119a132a6581e3fa071d4140e
